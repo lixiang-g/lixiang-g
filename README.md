@@ -51,5 +51,5 @@ Currently transitioning from a Java background to AI Application Engineering. Pa
 
 如果你对 Java 转 AI 的路径感兴趣，或者有好的 AI 落地思路，欢迎随时交流：
 
-- 📧 **Email**: 1143141437@qq.com
+- 📧 **Email**: aidongdongge@foxmail.com
 - **公众号**: AI Dong Dong哥
