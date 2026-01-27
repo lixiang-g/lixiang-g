@@ -17,7 +17,7 @@ Currently transitioning from a Java background to AI Application Engineering. Pa
 
 ### 🚀 My Projects
 
-- **[AI-Daily-Practice (AI-天天练)](https://github.com/lixiang-g/deep_learning_study)**
+- **[AI-Daily-Practice (AI-天天练)](https://github.com/lixiang-g/AI-Daily-Practice)**
   *Status: 🚧 Work in Progress*
   
   这是我的个人学习仓库。我在这里记录：
