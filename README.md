@@ -47,15 +47,6 @@ Currently transitioning from a Java background to AI Application Engineering. Pa
 
 ---
 
-### 📈 Coding Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=minimal&hide_border=true&hide_title=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=minimal&hide_border=true&hide_title=true&langs_count=6" height="150" alt="Top Languages" />
-</div>
-
----
-
 ### 📫 Reach Me
 
 如果你对 Java 转 AI 的路径感兴趣，或者有好的 AI 落地思路，欢迎随时交流：
