@@ -8,7 +8,7 @@
 
 ## 现在
 
-研究 Agent Memory，从零实现 GagaMemory（分层存储、合并与遗忘策略）。
+在做《嘎嘎嘎的工作之路》——把求职、技术研究、作品建设和内容记录合成一个项目：调研 Agent / AI 应用岗位、研究 Agent Memory、从零实现 GagaMemory，并公开记录整个过程。
 
 ## 技术
 
