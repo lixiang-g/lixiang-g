@@ -17,5 +17,6 @@ Java / Spring Boot · Python / FastAPI · RAG · Agent（工具调用 / 记忆 /
 
 ## 联系
 
-- 邮箱：734448961@qq.com
 - 公众号：AI嘎嘎嘎
+- 抖音：AI嘎嘎嘎
+- 邮箱：734448961@qq.com
